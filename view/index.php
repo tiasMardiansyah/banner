@@ -1,5 +1,5 @@
 <!-- Modal-->
-<?php $this->load->view('admin_panel/banner/modal') ?>
+<?php $this->load->view('view/modal') ?>
 
 <!-- main content -->
 <div class="card card-custom card-sticky" id="kt_page_sticky_card">
